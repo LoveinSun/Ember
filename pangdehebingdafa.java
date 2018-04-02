@@ -1,7 +1,11 @@
-//copy/b E:\temps\*.ts E:\temps\hebing.ts
+//copy/b E:\temps\*.ts E:\temps\hebing.ts。
 import java.io.*;
 
 public class pangdehebingdafa {
+	
+	
+	
+	//wqnml
 	public static void main(String []args) {
 		int a = 1;
 		for(a = 1;a<100;a++) {
