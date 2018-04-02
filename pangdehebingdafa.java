@@ -2,9 +2,6 @@
 import java.io.*;
 
 public class pangdehebingdafa {
-	
-	
-	
 	//wqnml
 	public static void main(String []args) {
 		int a = 1;
